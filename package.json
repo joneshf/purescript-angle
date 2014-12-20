@@ -1,0 +1,27 @@
+{
+  "name": "purescript-angle",
+  "version": "0.0.0",
+  "description": "Angle functions.",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-purescript": "^0.1.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-umd": "^0.1.3"
+  },
+  "main": "bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joneshf/purescript-angle.git"
+  },
+  "keywords": [
+    "angle",
+    "degree",
+    "radian"
+  ],
+  "author": "joneshf <jones3.hardy@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/joneshf/purescript-angle/issues"
+  },
+  "homepage": "https://github.com/joneshf/purescript-angle"
+}

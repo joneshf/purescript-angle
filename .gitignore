@@ -1,0 +1,9 @@
+/.*
+*.js
+!/.gitignore
+bower_components/
+bin/
+node_modules/
+output/
+tmp/
+npm-debug.log

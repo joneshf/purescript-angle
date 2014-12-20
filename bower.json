@@ -1,0 +1,9 @@
+{
+  "name": "purescript-angle",
+  "version": "0.0.0",
+  "description": "Angle functions.",
+  "license": "MIT",
+  "dependencies": {
+    "purescript-math": "~0.1.0"
+  }
+}
